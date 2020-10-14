@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+  background-image: image(higer1.jpg);
+}
+table{
+  background-color: #aa99;
+}
+#list{
+  color: #a122ba;
+}
+a{
+  color: green;
+  text-decoration: none;
+}
+.sub-topics{
+  color: Blue;
+  text-align: center;
+}
+.Edu{
+  color: Blue;
+}
+.list{
+  color: red;
+}
+#Hobbies{
+  color: Blue;
+}
+.HI{
+  color: Blue;
+  text-align: center;
+  text-decoration: underline;
+}
+#Biography{
+  text-align: center;
+}
+.middle-container{
+  height: 200px;
+  width: 100%;
+  border-style: groove;
+  border-width: 5px;
+  background-color: #a1ed2244;
+}
+.bottom-container{
+  border-style: outset;
+  border-width: medium;
+  background-color: #d6efd7;
+}
